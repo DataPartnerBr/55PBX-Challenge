@@ -21,4 +21,4 @@ Banco de dados utilizado MongoDB previamente configurado.
     1 - Accesar o diretório front
     2 - npm install
     3 - npm startWW
-    4 - O aplicação estará rodando em modo development. Accesar WWhttp://localhost:3000 via navegador.
+    4 - O aplicação estará rodando em modo development. Accesar http://localhost:3000 via navegador.
