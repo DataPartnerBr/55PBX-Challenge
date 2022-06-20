@@ -58,7 +58,7 @@ export default function App() {
                         <label>
                             <p>URL</p>
                             <input type="text" required
-                                   value={values.url} onChange={set('url')}/>
+                                   value={values.url} onChange={set('url')} placeholder="http://datapartner.com.br"/>
                         </label>
                         <button type="submit">Enviar</button>
                     </fieldset>
